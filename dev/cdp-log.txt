@@ -1,0 +1,13 @@
+browser: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+target: file:///E:/makeImageAI/tool/mofu-tsum-pop/index.html
+ERROR Error: eval exc: TypeError: Cannot read properties of null (reading 'classList')
+    at <anonymous>:2:53
+    at CDP.eval (E:\makeImageAI\tool\mofu-tsum-pop\dev\cdp.js:77:35)
+    at async main (E:\makeImageAI\tool\mofu-tsum-pop\dev\cdp.js:189:18)
+---- errors (1) ----
+TEST-ERROR: eval exc: TypeError: Cannot read properties of null (reading 'classList')
+    at <anonymous>:2:53
+
+ERRORS:
+TEST-ERROR: eval exc: TypeError: Cannot read properties of null (reading 'classList')
+    at <anonymous>:2:53
